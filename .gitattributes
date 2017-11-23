@@ -1,4 +1,4 @@
 ECHO 处于打开状态。
-*.js linguist-language=vue
-*.css linguist-language=vue
-*.html linguist-language=vue
+*.js linguist-language=Vue
+*.css linguist-language=Vue
+*.html linguist-language=Vue
