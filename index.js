@@ -102,8 +102,9 @@ let router = new VueRouter({
 })
 let store = new Vuex.Store({
 	state:{
-		title:"vue-webpack",
 		username:'',
+		userid:'',
+		sendid:''
 	}
 })
 

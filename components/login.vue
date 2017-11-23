@@ -88,7 +88,7 @@
 					success:function(data){
 						if(data){
 							self.$store.state.username = data.username?data.username:data.phone;
-							alert(self.$store.state.username);
+							
 //							$.cookie('username', data, { expires: 7 });
 							window.location.href="#/index"
 						}else{
